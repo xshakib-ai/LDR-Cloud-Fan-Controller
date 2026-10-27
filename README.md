@@ -164,4 +164,15 @@ To adapt the project for a real fan, use a properly rated transistor/MOSFET driv
 - Add screenshots and a short demonstration video to the repository.
 
 
+## Project Team
 
+| Roll Number | Name |
+|---|---|
+| 13030824031 | KSHITIJ HARSH |
+| 13030824032 | KUNAL SINGH |
+| 13030824033 | MAAZ KARIM |
+| 13030824034 | MD BELAL |
+| 13030824035 | MD SHAKIB |
+
+**Department:** Computer Science & Engineering (Artificial Intelligence & Machine Learning)  
+**College:** Techno Main Salt Lake
