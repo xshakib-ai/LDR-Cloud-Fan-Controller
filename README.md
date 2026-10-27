@@ -163,10 +163,5 @@ To adapt the project for a real fan, use a properly rated transistor/MOSFET driv
 - Test with a physical sensor and a properly driven fan circuit.
 - Add screenshots and a short demonstration video to the repository.
 
-## Author
 
-**Md Shakib**
-
-- GitHub: [@xshakib-ai](https://github.com/xshakib-ai)
-- LinkedIn: [Muhammad Shakib](https://www.linkedin.com/in/muhammad-shakib/)
 
