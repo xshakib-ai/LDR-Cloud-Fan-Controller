@@ -22,7 +22,6 @@ The Serial Monitor reports the raw LDR ADC value, mapped light percentage, and c
 
 ![Wokwi Serial Monitor output](screenshots/serial-monitor.png)
 
-> **Screenshot note:** Add your own screenshots using the exact filenames above. If you do not have a Serial Monitor screenshot, remove that section until you add one.
 
 ## Features
 
